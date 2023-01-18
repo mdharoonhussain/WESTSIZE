@@ -1,0 +1,120 @@
+#image {
+  width: 170px;
+  height: 110px;
+  margin-left: 35px;
+}
+#text {
+  height: 30px;
+  width: 230px;
+  margin-top: 5px;
+  border-radius: 14px;
+  padding-left: 8px;
+}
+.nav {
+  /* border: 2px solid red; */
+  height: 100px;
+  display: flex;
+  position: sticky;
+  /* width: 100%; */
+}
+#heart {
+  height: 30px;
+  padding-top: 8px;
+}
+.nav2 {
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  padding-top: 55px;
+  margin-left: 220px;
+}
+.nav2 a {
+  padding-top: 20px;
+  text-decoration: none;
+  color: grey;
+  cursor: pointer;
+}
+#image2 {
+  height: 40px;
+  /* padding-top: 8px; */
+}
+#body {
+  margin-top: 10px;
+  /* width: 90%; */
+}
+#body2 {
+  margin-top: 10px;
+  /* width: 90%; */
+}
+#body3 {
+  margin-top: 10px;
+  /* width: 1000px; */
+}
+#body5 {
+  margin-top: 35px;
+}
+#body6 {
+  display: flex;
+}
+#body9 {
+  margin-top: 35px;
+}
+#body11 {
+  margin-top: 35px;
+}
+#body13 {
+  margin-left: 100px;
+}
+#body14 {
+  margin-top: 35px;
+}
+#body15 {
+  text-align: center;
+  margin-top: 40px;
+}
+#body17 {
+  text-align: center;
+  margin-top: 40px;
+}
+#body21 {
+  display: flex;
+}
+#body23 {
+  display: flex;
+}
+#body25 {
+  display: flex;
+}
+#body26 {
+  display: flex;
+}
+#body27 {
+  display: flex;
+}
+#body28 {
+  display: flex;
+}
+#body29 {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  margin-top: 30px;
+}
+#footer {
+  justify-content: space-between;
+  /* border: 2px solid red; */
+  width: 80%;
+  text-align: center;
+  margin-left: 100px;
+}
+#body30 {
+  margin-top: 30px;
+  background-color: #2c4152;
+  color: white;
+  line-height: 40px;
+}
+#body31 img {
+  width: 50px;
+  display: inline;
+}
