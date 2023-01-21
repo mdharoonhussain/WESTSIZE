@@ -1,0 +1,93 @@
+#heart,
+#image2,
+#image {
+  cursor: pointer;
+}
+#image {
+  width: 170px;
+  height: 110px;
+  margin-left: 35px;
+}
+#text {
+  height: 30px;
+  width: 230px;
+  margin-top: 5px;
+  border-radius: 14px;
+  padding-left: 8px;
+}
+.nav {
+  /* border: 2px solid red; */
+  height: 100px;
+  display: flex;
+  position: sticky;
+  top: 0;
+  background: white;
+  /* width: 100%; */
+}
+
+.nav2 h4 {
+  margin-bottom: 25px;
+  color: red;
+  cursor: pointer;
+}
+#login {
+  padding-top: 0px;
+}
+.nav2 {
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  padding-top: 55px;
+  margin-left: 220px;
+  /* border: 2px solid red; */
+}
+.nav2 a {
+  padding-top: 20px;
+  text-decoration: none;
+  color: grey;
+  cursor: pointer;
+}
+
+.nav2 {
+  /* border: 2px solid red; */
+  width: 70%;
+  justify-content: space-around;
+}
+.nav2 div {
+  /* border: 2px solid red; */
+  display: flex;
+}
+.banner img {
+  width: 100%;
+}
+#main {
+  border: 2px solid brown;
+  width: 90%;
+  height: 120vh;
+  margin: auto;
+  display: flex;
+}
+#div1 {
+  width: 27%;
+  height: 400px;
+  border: 2px solid brown;
+}
+#div2 {
+  border: 2px solid brown;
+  width: 15%;
+  height: 300px;
+  margin-left: 50px;
+}
+#div3 {
+  border: 2px solid brown;
+  width: 15%;
+  height: 300px;
+  margin-left: 50px;
+}
+#div4 {
+  border: 2px solid brown;
+  width: 25%;
+  height: 450px;
+  margin-left: 50px;
+}

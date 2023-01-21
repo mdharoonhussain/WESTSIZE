@@ -149,3 +149,7 @@ let imageArr5 = [
 window.addEventListener("load", function () {
   bannerShow5(imageArr5);
 });
+
+let mouseBtn = document.getElementsByClassName("a1");
+mouseBtn.addEventListener("mouseenter", () => console.log("Mouse Enter"));
+mouseBtn.addEventListener("mouseleave", () => console.log("Mosue leave"));
