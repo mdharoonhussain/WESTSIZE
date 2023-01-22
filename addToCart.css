@@ -61,33 +61,38 @@
 .banner img {
   width: 100%;
 }
-#main {
-  border: 2px solid brown;
-  width: 90%;
-  height: 120vh;
-  margin: auto;
+.main {
+  /* border: 2px solid black; */
   display: flex;
+  margin-left: 70px;
 }
-#div1 {
-  width: 27%;
-  height: 400px;
-  border: 2px solid brown;
+
+.left {
+  /* border: 2px solid black; */
+  width: 40%;
 }
-#div2 {
-  border: 2px solid brown;
-  width: 15%;
+.container2 {
+  /* border: 2px solid red; */
+  width: 50%;
   height: 300px;
-  margin-left: 50px;
+  text-align: center;
 }
-#div3 {
-  border: 2px solid brown;
-  width: 15%;
-  height: 300px;
-  margin-left: 50px;
+.container2 div img {
+  width: 50%;
+  /* border: 2px solid red; */
 }
-#div4 {
-  border: 2px solid brown;
-  width: 25%;
-  height: 450px;
-  margin-left: 50px;
+
+.right {
+  /* border: 2px solid black; */
+  width: 40%;
+  margin-right: 50px;
+}
+#btn {
+  width: 150px;
+  height: 40px;
+  padding: 12px;
+  margin-left: 80px;
+}
+#btn:hover {
+  background-color: aquamarine;
 }

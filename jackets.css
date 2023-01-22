@@ -58,67 +58,29 @@
   height: 40px;
   /* padding-top: 8px; */
 }
-.mid {
-  width: 300px;
-  height: 100vh;
+/*  Card Styles started here */
+#main-div {
   /* border: 2px solid red; */
-  margin-top: 10px;
-  margin-left: 60px;
-  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
-}
-.mid h4 {
-  line-height: 40px;
+  display: flex;
 }
 .mid2 {
-  width: 70%;
-  height: 200vh;
-  /* border: 2px solid black; */
-  margin: auto;
+  /* border: 2px solid red; */
 }
-/* .mid2 h1,
-p {
-  border: 2px solid aqua;
-} */
-
-.mid2 p {
-  width: 75%;
-  text-align: center;
-  margin-left: 100px;
-}
-#main-div {
-  display: flex;
-  margin-top: 13px;
-}
-.mid2 h1,
-p {
-  text-align: center;
-}
-.inner-div1 {
-  /* border: 2px solid black; */
+#container {
+  /* border: 2px solid red; */
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  width: 90%;
+  /* margin: auto; */
+  margin-left: 100px;
 }
-.inner-div1 div {
-  margin-top: 20px;
-  /* border: 2px solid brown; */
-  width: 280px;
-  height: 480px;
-  text-align: center;
+.mid {
+  width: 20%;
 }
-.div1 p {
-  text-align: center;
-  /* align-items: center; */
-  line-height: 20px;
-  margin: auto;
+#container img {
+  width: 80%;
+  box-sizing: border-box;
 }
-.div1 button {
-  border-radius: 3px;
-  background-color: white;
-  width: 100px;
-  height: 25px;
-  color: black;
-}
-.mid tbody {
-  display: block;
+.mid2 h1 {
+  margin-left: 60px;
 }
