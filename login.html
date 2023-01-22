@@ -67,11 +67,11 @@
 
    
     let allUserData = JSON.parse(localStorage.getItem("users")) || [];
-    signupBtn.addEventListener("click",()=>{
-    // e.preventDefault();
-    const formData = {
+    signupBtn.addEventListener("submit",(e)=>{
+      e.preventDefault();
+      const formData = {
       name : nameField.value,
-      emali : email.value,
+      email : email.value,
       password : password.value,
     };
     allUserData.push(formData);

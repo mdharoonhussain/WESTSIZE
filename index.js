@@ -150,6 +150,8 @@ window.addEventListener("load", function () {
   bannerShow5(imageArr5);
 });
 
-let mouseBtn = document.getElementsByClassName("a1");
-mouseBtn.addEventListener("mouseenter", () => console.log("Mouse Enter"));
-mouseBtn.addEventListener("mouseleave", () => console.log("Mosue leave"));
+let array = JSON.parse(localStorage.getItem("add")) || [];
+
+let changeName = document.querySelector(".nav h4");
+console.log(changeName);
+// changeName.innerHTML = "Hello Haroon";
