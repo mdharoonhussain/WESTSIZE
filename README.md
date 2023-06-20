@@ -1,5 +1,6 @@
 # verdant-attack-1980
 Clone of AJIO.com
+# Description
 It is the clone of an Indian e-commerce platform that specializes in fashion and lifestyle products. It offers a wide range of fashion products for men, women, and kids, including clothing, footwear, accessories, and beauty products.
 
 ## Deployment Link - https://effulgent-druid-8dcd40.netlify.app/
