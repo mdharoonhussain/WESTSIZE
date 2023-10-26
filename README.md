@@ -1,4 +1,4 @@
-# verdant-attack-1980
+<!-- # verdant-attack-1980 -->
 # Project Name - West Size
 Clone of AJIO.com
 # Description
