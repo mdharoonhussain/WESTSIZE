@@ -25,7 +25,7 @@ It is the clone of an Indian e-commerce platform that specializes in fashion and
 - Payment Page
 
 ## Screenshots
-![Landing Page](https://drive.google.com/file/d/1yJWIptQtoKYhngiMcVBFptH6yEyqiNSy/view?usp=sharing)
-![Login Page](https://drive.google.com/file/d/1-T5nJUecK3wSUGFTtoOcP0LaO8GecNnA/view?usp=sharing)
-![Add To Cart Page](https://drive.google.com/file/d/1Hgtu97N0Ro8jdekekUTtoLoJ959y6tIB/view?usp=sharing)
+![Landing Page](./Screenshot%20(484).png)
+![Login Page](./Screenshot%20(485).png)
+![Add To Cart Page](./Screenshot%20(486).png)
 
